@@ -5,7 +5,7 @@ Reprise de la commande ls.
 
 $ ls_rust
   
-  --al -> Trie les noms des fichiers et dossiers par odre alphabétique
+  --al -> Trie les noms des fichiers et dossiers par ordre alphabétique
   
   --ct -> Ajoute ligne aux résultats détaillant le total des fichiers et dossiers
   
